@@ -1,0 +1,6 @@
+[submodule "microservices/postservice"]
+	path = microservices/postservice
+	url = https://github.com/mkiaraujo/ems-algaposts-postservice.git
+[submodule "microservices/textprocessorservice"]
+	path = microservices/textprocessorservice
+	url = https://github.com/mkiaraujo/ems-algaposts-textprocessorservice.git
